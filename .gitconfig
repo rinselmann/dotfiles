@@ -1,0 +1,19 @@
+[user]
+	name = Ryan Inselmann
+	email = ryan@inselmann.org
+
+[init]
+	defaultBranch = main
+
+[core]
+	precomposeUnicode = true
+
+[diff]
+tool = araxis
+
+[merge]
+tool = araxis
+
+[alias]
+ad = difftool --tool=araxis --dir-diff
+ads = difftool --tool=araxis --dir-diff --staged
