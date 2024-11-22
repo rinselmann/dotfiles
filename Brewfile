@@ -10,6 +10,7 @@ brew "tmux"
 
 cask "1password"
 cask "acorn"
+cask "adobe-creative-cloud"
 cask "araxis-merge"
 cask "blender"
 cask "daisydisk"
