@@ -11,3 +11,7 @@ path=($path '/Applications/Visual Studio Code.app/Contents/Resources/app/bin')
 # Araxis Merge
 # https://www.araxis.com/merge/macos/installing.en
 path=($path'/Applications/Araxis Merge.app/Contents/Utilities')
+
+# Homebrew
+[[ -r /opt/homebrew/bin/brew ]] && eval "$(/opt/homebrew/bin/brew shellenv)"
+[[ -r /usr/local/bin/brew ]] && eval "$(/usr/local/bin/brew shellenv)"
