@@ -528,6 +528,12 @@
         "options": {
           "full_name": "macdown"
         }
+      },
+      "proxyman": {
+        "version": "5.10.0,51000",
+        "options": {
+          "full_name": "proxyman"
+        }
       }
     },
     "mas": {
