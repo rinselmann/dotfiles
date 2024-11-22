@@ -1,3 +1,5 @@
+tap "homebrew/services"
+
 brew "direnv"
 brew "dnsmasq"
 brew "fzf"

@@ -555,6 +555,11 @@
     "vscode": {
       "editorconfig.editorconfig": null,
       "monokai.theme-monokai-pro-vscode": null
+    },
+    "tap": {
+      "homebrew/services": {
+        "revision": "697262483fabecf2e1f3fc4b6acbb5d134f6bc37"
+      }
     }
   },
   "system": {
