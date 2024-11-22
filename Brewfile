@@ -5,8 +5,6 @@ brew "gh"
 brew "jq"
 brew "mas"
 brew "openjdk"
-brew "maven"
-brew "nghttp2"
 brew "powerlevel10k"
 brew "tmux"
 
