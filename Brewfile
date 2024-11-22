@@ -32,7 +32,7 @@ cask "wireshark"
 cask "zoom"
 
 mas "Fantastical", id: 975937182
-mas "Kindle", id: 405399194
+mas "Kindle", id: 302584613
 mas "Logic Pro", id: 634148309
 mas "Medis", id: 1063631769
 mas "Numbers", id: 409203825
