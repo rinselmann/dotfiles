@@ -7,9 +7,11 @@
 - [Sublime Text](https://www.sublimetext.com)
 - [iTerm2](https://iterm2.com)
 - [Docker Desktop](https://www.docker.com)
+- [nvm]
+
 
 ## Developer Setup
 
 ```
-bash <(curl -fsSL https://gist.githubusercontent.com/rinselmann/5d10d487eb18d6e1d1778cad688aa700/raw/dotfiles-install)
+zsh <(curl -fsSL https://gist.githubusercontent.com/rinselmann/5d10d487eb18d6e1d1778cad688aa700/raw/dotfiles-bootstrap)
 ```
