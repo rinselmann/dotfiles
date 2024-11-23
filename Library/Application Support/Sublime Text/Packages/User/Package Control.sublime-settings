@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"JsPrettier",
+		"MarkdownPreview",
+		"Package Control",
+		"Pretty JSON",
+		"Theme - Monokai Pro",
+	],
+	"repositories":
+	[
+	],
+}
