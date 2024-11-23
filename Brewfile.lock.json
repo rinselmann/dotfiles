@@ -440,7 +440,7 @@
         }
       },
       "microsoft-edge": {
-        "version": "131.0.2903.63,6d4c0d6f-676d-4233-9d83-c8657ea7c707",
+        "version": "131.0.2903.63,e4049722-0e52-4846-aa49-1c5f67292021",
         "options": {
           "full_name": "microsoft-edge"
         }
@@ -556,8 +556,8 @@
         "version": "11.1"
       },
       "Medis": {
-        "id": "1063631769",
-        "version": "1.0.3"
+        "id": "1579200037",
+        "version": "2.15.1"
       },
       "Numbers": {
         "id": "409203825",
@@ -590,11 +590,11 @@
     "macos": {
       "sequoia": {
         "HOMEBREW_VERSION": "4.4.6",
-        "HOMEBREW_PREFIX": "/opt/homebrew",
+        "HOMEBREW_PREFIX": "/usr/local",
         "Homebrew/homebrew-core": "api",
         "CLT": "16.1.0.0.1.1729049160",
         "Xcode": "16.1",
-        "macOS": "15.1.1"
+        "macOS": "15.0.1"
       }
     }
   }
