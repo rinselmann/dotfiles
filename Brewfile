@@ -1,5 +1,6 @@
 tap "homebrew/services"
 
+brew "awscli"
 brew "direnv"
 brew "dnsmasq"
 brew "fzf"

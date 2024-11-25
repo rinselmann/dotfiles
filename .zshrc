@@ -42,14 +42,8 @@ export REACT_EDITOR=code
 # Keyboard settings
 # ===================================================
 
-# enable zsh vi mode
-bindkey -v
-
 # Don't eat the space before a pipe after tab completion
 ZLE_SPACE_SUFFIX_CHARS=$'&|'
-
-# 10ms for key sequences to make switching to vi normal mode faster
-KEYTIMEOUT=1
 
 # ===================================================
 # Tools and tab completions
@@ -59,7 +53,7 @@ autoload -U bashcompinit && bashcompinit # Enable bash complete command
 autoload -U compinit && compinit -i
 
 # Enable autocompletion for aws cli
-complete -C '/usr/local/bin/aws_competer' aws
+complete -C '$(brew --prefix)/bin/aws_completer' aws
 
 # https://iterm2.com/documentation-shell-integration.html
 export ITERM_ENABLE_SHELL_INTEGRATION_WITH_TMUX=YES
