@@ -8,6 +8,7 @@ brew "jq"
 brew "mas"
 brew "openjdk"
 brew "powerlevel10k"
+brew "rustup"
 brew "tmux"
 
 cask "1password"
