@@ -15,3 +15,7 @@ path=($path '/Applications/Visual Studio Code.app/Contents/Resources/app/bin')
 # Araxis Merge
 # https://www.araxis.com/merge/macos/installing.en
 path=('/Applications/Araxis Merge.app/Contents/Utilities' $path)
+
+# Rust
+# Created by rustup-init
+. "$HOME/.cargo/env"
