@@ -57,7 +57,7 @@ complete -C '$(brew --prefix)/bin/aws_completer' aws
 
 # https://iterm2.com/documentation-shell-integration.html
 export ITERM_ENABLE_SHELL_INTEGRATION_WITH_TMUX=YES
-test -e "${HOME}/.iterm2_shell_integration.zsh" && . "${HOME}/.iterm2_shell_integration.zsh"
+. ~/.iterm2_shell_integration.zsh
 
 # https://github.com/nvm-sh/nvm#install--update-script
 export NVM_DIR="$HOME/.nvm"
