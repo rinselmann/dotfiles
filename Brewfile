@@ -10,6 +10,7 @@ brew "mas"
 brew "openjdk"
 brew "powerlevel10k"
 brew "rustup"
+brew "aws-sam-cli"
 brew "tmux"
 
 cask "1password"
