@@ -48,6 +48,7 @@ mas "Logic Pro", id: 634148309
 mas "Medis", id: 1063631769
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Paprika Recipe Manager 3", id: 1303222628
 mas "Slack", id: 803453959
 mas "Xcode", id: 497799835
 
