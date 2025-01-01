@@ -51,6 +51,7 @@ mas "Pages", id: 409201541
 mas "Paprika Recipe Manager 3", id: 1303222628
 mas "Slack", id: 803453959
 mas "Xcode", id: 497799835
+mas "Copilot", id: 1447330651 # Budgeting
 
 vscode "editorconfig.editorconfig"
 vscode "monokai.theme-monokai-pro-vscode"
