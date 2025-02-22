@@ -59,6 +59,11 @@ complete -C '$(brew --prefix)/bin/aws_completer' aws
 export ITERM_ENABLE_SHELL_INTEGRATION_WITH_TMUX=YES
 . ~/.iterm2_shell_integration.zsh
 
+# Homebrew
+# Give homebrew priority over /usr/bin by running here
+[[ -r /opt/homebrew/bin/brew ]] && eval "$(/opt/homebrew/bin/brew shellenv)"
+[[ -r /usr/local/bin/brew ]] && eval "$(/usr/local/bin/brew shellenv)"
+
 # https://github.com/nvm-sh/nvm#install--update-script
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
