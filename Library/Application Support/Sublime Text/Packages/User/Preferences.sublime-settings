@@ -7,4 +7,5 @@
 		"Vintage",
   ],
   "theme": "auto",
+  "index_files": true,
 }
