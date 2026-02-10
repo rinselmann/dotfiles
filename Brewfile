@@ -20,6 +20,7 @@ cask "acorn"
 cask "adobe-creative-cloud"
 cask "araxis-merge"
 cask "blender"
+cask "claude-code"
 cask "daisydisk"
 cask "docker-desktop"
 cask "figma"
@@ -43,7 +44,6 @@ cask "session-manager-plugin"
 cask "steam"
 cask "sublime-text"
 cask "visual-studio-code"
-cask "wireshark-app"
 cask "zoom"
 
 mas "Fantastical", id: 975937182
@@ -59,3 +59,4 @@ mas "Copilot", id: 1447330651 # Budgeting
 
 vscode "editorconfig.editorconfig"
 vscode "monokai.theme-monokai-pro-vscode"
+cask "wireshark-app"
