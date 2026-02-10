@@ -60,3 +60,4 @@ mas "Copilot", id: 1447330651 # Budgeting
 vscode "editorconfig.editorconfig"
 vscode "monokai.theme-monokai-pro-vscode"
 cask "wireshark-app"
+brew "ffmpeg"
