@@ -14,6 +14,7 @@ brew "redis"
 brew "rustup"
 brew "aws-sam-cli"
 brew "tmux"
+brew "uv" # allows uvx command to run python package as a tool without installing
 
 cask "1password"
 cask "acorn"
